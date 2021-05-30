@@ -10,3 +10,5 @@ state: object that exist inside that component and when that state changes the c
 
 ### JSX
 enables us to spit out the html that will eventually render to the DOM 
+
+###
